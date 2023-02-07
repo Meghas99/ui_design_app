@@ -1,0 +1,142 @@
+List<String> imagelisttile = [
+  'assets/images/image1.jpg',
+  'assets/images/image2.jpg',
+  'assets/images/image3.jpg',
+
+  'assets/images/image1.jpg',
+  'assets/images/image2.jpg',
+  'assets/images/image3.jpg',
+  'assets/images/image1.jpg',
+  'assets/images/image2.jpg',
+  'assets/images/image3.jpg',
+  'assets/images/image1.jpg',
+  'assets/images/image2.jpg',
+  'assets/images/image3.jpg',
+  'assets/images/image1.jpg',
+  'assets/images/image2.jpg',
+  'assets/images/image3.jpg',
+  
+];
+List<String> listtiletitle = [
+  'Order #1688068',
+  'Order #1457741',
+  'Order #1408896',
+  'Order #1369633',
+  'Order #1370125',
+  'Order #1370568',
+  'Order #1359971',
+  'Order #1265103',
+  'Order #1173537',
+  'Order #1176731',
+  'Order #1174245',
+  'Order #1177731',
+  'Order #1174282',
+  'Order #1174435',
+  'Order #1164892',
+];
+
+List<String> listTileDateAndTime = [
+  'Jul 12,02.06 PM',
+  'Apr 26,07.47 AM',
+  'Apr 11,10.54 AM',
+  'Apr 2,11.29 AM',
+  'Apr 2,11.29 AM',
+  'Apr 1,02.06 PM',
+  'Apr 1,02.06 AM',
+  'Apr 6,01.26 AM',
+  'Mar 22,10.04 PM',
+  'Feb 21,01.25 PM',
+  'Feb 21,10.20 AM',
+  'Feb 20,09.54 PM',
+  'Feb 19,10.47 AM',
+  'Feb 18,12.08 PM',
+  'FEb 13,07.57 AM',
+];
+List<String> listTileSubtitle = [
+  '₹799 deposite to:588208',
+  '₹397 deposite to:588208',
+  '₹686 deposite to:588208',
+  '₹999 deposite to:588208',
+  '₹968 deposite to:588208',
+  '₹105 deposite to:588208',
+  '₹799 deposite to:588208',
+  '₹888 deposite to:588208',
+  '₹999 deposite to:588208',
+  '₹903 deposite to:588208',
+  '₹999 deposite to:588208',
+  '₹100 deposite to:588208',
+  '₹999 deposite to:588208',
+  '₹999 deposite to:588208',
+  '₹899 deposite to:588208',
+];
+List<String> listTilePrice = [
+  '₹799',
+  '₹397',
+  '₹686',
+  '₹999',
+  '₹968',
+  '₹105',
+  '₹799',
+  '₹888',
+  '₹999',
+  '₹903',
+  '₹999',
+  '₹100',
+  '₹999',
+  '₹999',
+  '₹899',
+];
+List<String> catalogueImage = [
+  'assets/images/image3.jpg',
+  'assets/images/foto1.jpg',
+  'assets/images/fo2.jpg',
+  'assets/images/f3.jpg',
+  'assets/images/f4.jpg',
+  'assets/images/f5.jpg',
+  'assets/images/f6.jpg',
+  'assets/images/f7.jpg',
+  'assets/images/f8.jpg'
+];
+
+List<String> catalogueTitle = [
+  'Couch Potato | shirt...',
+  'Couch Potato | black...',
+  'Couch Potato | jacket...',
+  'Couch Potato | shirt...',
+  'Couch Potato | black...',
+  'Couch Potato | jacket...',
+  'Couch Potato | shirt...',
+  'Couch Potato | black...',
+];
+List<String> piece = [
+  '1 Piece',
+  '21 piece',
+  '12 piece',
+  '1 piece',
+  '21 piece',
+  '12 piece',
+  '1 piece',
+  '21 piece',
+];
+List<String> rate = [
+  '₹899',
+  '₹699',
+  '₹999',
+  '₹899',
+  '₹699',
+  '₹999',
+  '₹899',
+  '₹699',
+];
+
+List<bool> switched = [
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+];
+
